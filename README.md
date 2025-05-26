@@ -5,4 +5,3 @@
 - This is because the information gap between customers exists, and they are not able to receive appropriate prices.
 - Therefore, a process is needed to specify the expert service provided using the LLM model and then provide an appropriate transaction price.
 - The repository provides a crawling code that collects expert service data from the Kmong platform and a model code that classifies the subcategories of services using KoBERT.
-## KoBert_Subcategory_Classification
